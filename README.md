@@ -1,1 +1,1 @@
-# Proyecto-Arduino-Brazo-Rob-tico
+# Proyecto-Arduino-Brazo-Robotico
