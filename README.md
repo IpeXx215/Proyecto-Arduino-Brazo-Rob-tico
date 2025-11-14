@@ -23,6 +23,27 @@ Esta primera sesión a sido introductoria, se ha explicado en qué iba a consist
 Por nuestra parte hemos buscado qué dispositivo crear, ya que no queríamos que fuera muy complicado de montar ni programar, pero tampoco demasiado sencillo, buscábamos un deafío. Después de quedarnos entre 3 opciones, elegimos el brazo articulado.
 
 **Sesión 1 (14/11):**  
-En la segunda sesión nos hemos puesto manos a obra con el proyecto. Hemos iniciado el código del brazo articulado en Tinkercad, haciendo un primer borrador programando los sevomotores y los josticks, estos últimos actuando de facto como potenciómetros. Por nuestra parte el hardware más o menos está diseñado, en Tinkercad, y nos faltaría pulir más a fondo el software antes de ponernos ya a construir el brazo articulado.
+Sesión 1 (14/11): Avances en el Proyecto del Brazo Articulado
+
+En esta segunda sesión de trabajo, hemos comenzado a desarrollar activamente el proyecto del brazo robótico. Nuestro enfoque principal ha sido la implementación inicial del software mediante Tinkercad, donde hemos creado un primer prototipo funcional del sistema de control.
+
+Desarrollos técnicos realizados:
+
+Programación de los servomotores que actuarán como articulaciones del brazo
+
+Implementación del control mediante joysticks, que funcionan como potenciómetros para un manejo intuitivo
+
+Diseño preliminar completo del hardware en la plataforma Tinkercad
+
+Estado actual y próximos pasos:
+El diseño mecánico básico está definido, y nuestro siguiente objetivo es refinar y optimizar el software antes de proceder con la construcción física del prototipo. Esta aproximación por fases nos permite validar el funcionamiento del sistema antes de comprometer recursos materiales.
+
+Próximos objetivos:
+
+Depuración y mejora del código de control
+
+Optimización de los algoritmos de movimiento
+
+Preparación para la fase de construcción física
 ## Bibliografía
 Proyecto sacado de [Instructables](https://www.instructables.com/Automated-Robotic-Arm-That-Learns-Ft-Tinkercad-Ard/)
