@@ -18,7 +18,7 @@ En un principio con estos componentes es suficiente, pero si vamos bien de tiemp
 
 Además, para facilitar las pruebas del equipo y código sin necesidad de montar todo el brazo es posible que usemos una placa Protoboard.
 ## Diario de sesiones
-**Sesión 0:**  
+**Sesión 0 (7/11):**  
 Esta primera sesión a sido introductoria, se ha explicado en qué iba a consistir el proyecto, el metodo de calificación y los diferentes objetivos a realizar.  
 Por nuestra parte hemos buscado qué dispositivo crear, ya que no queríamos que fuera muy complicado de montar ni programar, pero tampoco demasiado sencillo, buscábamos un deafío. Después de quedarnos entre 3 opciones, elegimos el brazo articulado.
 
