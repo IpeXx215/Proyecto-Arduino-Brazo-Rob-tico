@@ -19,14 +19,17 @@ En un principio con estos componentes es suficiente, pero si vamos bien de tiemp
 Además, para facilitar las pruebas del equipo y código sin necesidad de montar todo el brazo es posible que usemos una placa Protoboard.
 ## Diario de sesiones
 **Sesión 0 (7/11):**  
+
 Esta primera sesión a sido introductoria, se ha explicado en qué iba a consistir el proyecto, el metodo de calificación y los diferentes objetivos a realizar.  
 Por nuestra parte hemos buscado qué dispositivo crear, ya que no queríamos que fuera muy complicado de montar ni programar, pero tampoco demasiado sencillo, buscábamos un deafío. Después de quedarnos entre 3 opciones, elegimos el brazo articulado.
+
 
 **Sesión 1 (14/11):** 
 
 En esta segunda sesión de trabajo, hemos comenzado a desarrollar activamente el proyecto del brazo robótico. Nuestro enfoque principal ha sido la creación de un borrador inicial del software mediante Tinkercad, donde hemos creado un diseño inicial de como queremos que sean y funcionen los componentes electrónicos de nuestro brazo.
 Es por esto que hemos realizado la programación de los servomotores que actuarán como articulaciones del brazo, también hemos programado los joysticks, que funcionan como potenciómetros para un manejo intuitivo y hemos realizado un diseño del hardware en Tinkercad.
 Es verdad que el borrador básico está muy avanzado,sin embargo aún nos falta pulir el código que preveemos realizarlo en la próxima sesión; y más adelante, ya proceder con la construcción física del brazo articulado.
+
 
 ## Bibliografía
 Proyecto sacado de [Instructables](https://www.instructables.com/Automated-Robotic-Arm-That-Learns-Ft-Tinkercad-Ard/)
