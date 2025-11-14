@@ -21,6 +21,7 @@ Además, para facilitar las pruebas del equipo y código sin necesidad de montar
 **Sesión 0 (7/11):**  
 Esta primera sesión a sido introductoria, se ha explicado en qué iba a consistir el proyecto, el metodo de calificación y los diferentes objetivos a realizar.  
 Por nuestra parte hemos buscado qué dispositivo crear, ya que no queríamos que fuera muy complicado de montar ni programar, pero tampoco demasiado sencillo, buscábamos un deafío. Después de quedarnos entre 3 opciones, elegimos el brazo articulado.
-
+**Sesión 0 (14/11):**  
+Tengo el bicho pelao.
 ## Bibliografía
 Proyecto sacado de [Instructables](https://www.instructables.com/Automated-Robotic-Arm-That-Learns-Ft-Tinkercad-Ard/)
