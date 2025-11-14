@@ -22,11 +22,8 @@ Además, para facilitar las pruebas del equipo y código sin necesidad de montar
 Esta primera sesión a sido introductoria, se ha explicado en qué iba a consistir el proyecto, el metodo de calificación y los diferentes objetivos a realizar.  
 Por nuestra parte hemos buscado qué dispositivo crear, ya que no queríamos que fuera muy complicado de montar ni programar, pero tampoco demasiado sencillo, buscábamos un deafío. Después de quedarnos entre 3 opciones, elegimos el brazo articulado.
 
-**Sesión 1 (14/11):**  
-Sesión 1 (14/11): Avances en el Proyecto del Brazo Articulado
-
+**Sesión 1 (14/11):** 
 En esta segunda sesión de trabajo, hemos comenzado a desarrollar activamente el proyecto del brazo robótico. Nuestro enfoque principal ha sido la implementación inicial del software mediante Tinkercad, donde hemos creado un primer prototipo funcional del sistema de control.
-
 Desarrollos técnicos realizados:
 
 Programación de los servomotores que actuarán como articulaciones del brazo
