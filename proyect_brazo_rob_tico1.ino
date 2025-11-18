@@ -29,10 +29,12 @@ void setup()
 
 void loop()
 {
-  manual();
+  controles();
 }
 
-void manual(){
+
+
+void controles(){
   int i, j, k, l;
   
   // Movimiento Rotacional
@@ -68,11 +70,46 @@ void manual(){
       delay(20);
     }
   }
+    
+   //Movimiento Pala (falta calcular limites)
+    if(analogRead(Y2)<=510){
+    for(k=pala.read();k<180;k++){
+      if(analogRead(Y2)>510)
+        break;
+      pala.write(k);
+      delay(20);
+    }
+  }else if(analogRead(Y2)>510){
+    for(k=pala.read();k>2;k--){
+      if(analogRead(Y2)<510)
+        break;
+      pala.write(k);
+      delay(20);
+    }
+  }
+      
+   //Movimiento Pinza (Hay que ver los limites del servo)
+    if(analogRead(X2)<=510){
+    for(l=pinza.read();l<180;l++){
+      if(analogRead(X2)>510)
+        break;
+      pinza.write(l);
+      delay(20);
+    }
+  }else if(analogRead(X2)>510){
+    for(l=pinza.read();l>2;l--){
+      if(analogRead(X2)<510)
+        break;
+      pinza.write(l);
+      delay(20);
+    }
+  }
   
-
-  
-  
-  
+/*
+	Preguntar sik hay alguna función para que se lleven a cabo los tres if a la vez
+    PROBLEMA: hasta que no termina de hacer un if no empieza otro movimiento
+    Causa: el bucle del if
+*/
   
   
   /*Pruebas
