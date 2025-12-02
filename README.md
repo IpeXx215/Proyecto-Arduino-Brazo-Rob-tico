@@ -32,7 +32,9 @@ Es verdad que el borrador básico está muy avanzado,sin embargo aún nos falta 
 
 **Sesión 2 (28/11):**
 
-doldasd
+En esta sesión hemos continuado con la programación del brazo, pero esta vez ya hemos podido aplicarlo a los componentes físicos. Como ya disponemos de los servomotores, hemos tratado de determinar el rango de mocimiento de cada uno, pero resulta más dificil de lo que pensabamos.  
+Aun nos faltará por implementar el programa de los controles ya que aun no hemos podido aplicar el codigo a los joysticks.  
+Respecto al código estamos tratando de mejorarlo para que pueda realizar dos funciones a la vez, y quiza implementemos una nueva funcionalidad al brazo si nos da teimpo.
 
 
 ## Bibliografía
