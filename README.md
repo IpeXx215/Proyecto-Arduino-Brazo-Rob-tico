@@ -28,7 +28,7 @@ Por nuestra parte hemos buscado qué dispositivo crear, ya que no queríamos que
 
 En esta segunda sesión de trabajo, hemos comenzado a desarrollar activamente el proyecto del brazo robótico. Nuestro objetivo del día fue la creación de un borrador inicial del software mediante Tinkercad, donde hemos creado un diseño inicial de como queremos que sean y funcionen los componentes electrónicos de nuestro brazo.
 Es por esto, que hemos realizado la programación de los servomotores que actuarán como articulaciones del brazo. También hemos programado los joysticks, que funcionan como potenciómetros para un manejo intuitivo y, por último, hemos realizado un diseño del hardware en Tinkercad.
-Es verdad que el borrador básico está muy avanzado,sin embargo aún nos falta acabar el código que preveemos realizarlo en la próxima sesión; y más adelante, ya proceder con la construcción física del brazo articulado.  
+Es verdad que el borrador básico está muy avanzado, sin embargo aún nos falta acabar el código que preveemos realizarlo en la próxima sesión; y más adelante, ya proceder con la construcción física del brazo articulado.  
 
 **Sesión 2 (28/11):**
 
