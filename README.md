@@ -26,15 +26,15 @@ Por nuestra parte hemos buscado qué dispositivo crear, ya que no queríamos que
 
 **Sesión 1 (14/11):** 
 
-En esta segunda sesión de trabajo, hemos comenzado a desarrollar activamente el proyecto del brazo robótico. Nuestro enfoque principal ha sido la creación de un borrador inicial del software mediante Tinkercad, donde hemos creado un diseño inicial de como queremos que sean y funcionen los componentes electrónicos de nuestro brazo.
-Es por esto que hemos realizado la programación de los servomotores que actuarán como articulaciones del brazo, también hemos programado los joysticks, que funcionan como potenciómetros para un manejo intuitivo y hemos realizado un diseño del hardware en Tinkercad.
-Es verdad que el borrador básico está muy avanzado,sin embargo aún nos falta pulir el código que preveemos realizarlo en la próxima sesión; y más adelante, ya proceder con la construcción física del brazo articulado.  
+En esta segunda sesión de trabajo, hemos comenzado a desarrollar activamente el proyecto del brazo robótico. Nuestro objetivo del día fue la creación de un borrador inicial del software mediante Tinkercad, donde hemos creado un diseño inicial de como queremos que sean y funcionen los componentes electrónicos de nuestro brazo.
+Es por esto, que hemos realizado la programación de los servomotores que actuarán como articulaciones del brazo. También hemos programado los joysticks, que funcionan como potenciómetros para un manejo intuitivo y, por último, hemos realizado un diseño del hardware en Tinkercad.
+Es verdad que el borrador básico está muy avanzado,sin embargo aún nos falta acabar el código que preveemos realizarlo en la próxima sesión; y más adelante, ya proceder con la construcción física del brazo articulado.  
 
 **Sesión 2 (28/11):**
 
 En esta sesión hemos continuado con la programación del brazo, pero esta vez ya hemos podido aplicarlo a los componentes físicos. Como ya disponemos de los servomotores, hemos tratado de determinar el rango de mocimiento de cada uno, pero resulta más dificil de lo que pensabamos.  
 Aun nos faltará por implementar el programa de los controles ya que aun no hemos podido aplicar el codigo a los joysticks.  
-Respecto al código estamos tratando de mejorarlo para que pueda realizar dos funciones a la vez, y quiza implementemos una nueva funcionalidad al brazo si nos da teimpo.
+Respecto al código estamos tratando de mejorarlo para que pueda realizar dos funciones a la vez, y quiza implementemos una nueva funcionalidad al brazo si nos da tiempo.
 
 
 ## Bibliografía
