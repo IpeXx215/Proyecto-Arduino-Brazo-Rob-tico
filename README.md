@@ -41,8 +41,11 @@ Respecto al código estamos tratando de mejorarlo para que pueda terminar hacien
 
 **Sesión 3 (5/12):**  
 
-Completar
+En la cuarta sesión, acabamos de medir los ángulos que se moverán cada servomotor, tanto la base, el brazo y la pala, siendo éstos los que completamos. Sin embargo, tuvimos un problema con la pinza ya que aunque programasemos que hiciese ciertos ángulos, a la hora de probarlo físicamente hacía ángulos de más, es decir se movía más de lo que queríamos, y va a ser uno de nuestros objetivos en la próxima sesión
 
+Por otra parte, ya recibimos los josticks, con esto la parte del hardware, los elementos requeridos del montaje físico, ya estaría más o menos listo, y solo faltaría ya montarlo. Es por ello, que en la próxima sesión, se intentará montar y hacer una prueba general del brazo róbitico.
+
+Por último todos los elementos del software, el código, ya está listo, incluso una parte extra, que será la posibilidad de jugar a piedra, papel o tijera, usando la pinza, con un ser humano. Dependiendo de cómo se mueva la pinza, indicará si es piedra, papel o tijera.  
 
 ## Bibliografía
 Proyecto sacado de [Instructables](https://www.instructables.com/Automated-Robotic-Arm-That-Learns-Ft-Tinkercad-Ard/)
