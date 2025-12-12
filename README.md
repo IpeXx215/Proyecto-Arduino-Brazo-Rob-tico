@@ -45,7 +45,11 @@ En la cuarta sesión, acabamos de medir los ángulos que se moverán cada servom
 
 Por otra parte, ya recibimos los josticks, con esto la parte del hardware, los elementos requeridos del montaje físico, ya estaría más o menos listo, y solo faltaría ya montarlo. Es por ello, que en la próxima sesión, se intentará montar y hacer una prueba general del brazo róbitico.
 
-Por último todos los elementos del software, el código, ya está listo, incluso una parte extra, que será la posibilidad de jugar a piedra, papel o tijera, usando la pinza, con un ser humano. Dependiendo de cómo se mueva la pinza, indicará si es piedra, papel o tijera.  
+Por último todos los elementos del software, el código, ya está listo, incluso una parte extra, que será la posibilidad de jugar a piedra, papel o tijera, usando la pinza, con un ser humano. Dependiendo de cómo se mueva la pinza, indicará si es piedra, papel o tijera.   
+
+**Seasio 4: Presentación proyecto (12/12)**
+
+Ensf
 
 ## Bibliografía
 Proyecto sacado de [Instructables](https://www.instructables.com/Automated-Robotic-Arm-That-Learns-Ft-Tinkercad-Ard/)
