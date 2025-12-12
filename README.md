@@ -49,7 +49,11 @@ Por último todos los elementos del software, el código, ya está listo, inclus
 
 **Seasio 4: Presentación proyecto (12/12)**
 
-Ensf
+En nuestra última sesión hemos empleado la primera hora para cambiar la pinza del brazo; ya que el servomotor de la pinza no funcionaba correctamente, a continuaación hemos instalado la base y por último hemos implementado los josticks; asía y terminando el montaje físico del brazo róbotico. 
+
+Después ha sido la presentación del brazo róbotico, que creemos haber explicado todas sus funcionalidades, que ha modo de resumen, el primer jostick movía el brazo y la pala, en los ejes x e y respectivamente. Y el segundo jostick movía la base y la pinza, también en los ejes x e y respectivamente.
+
+Sin embargo, si hubiesemos tenido más tiempo podríamos haber implemetado el juego de piedra, papel y tijera, ya que teniamos gran parte del código para ello, y en el caso de que se puediera desarrollar este proyecto un poco más, nos hubiera gustado poner un monitor serial para elegir este juego e incluso dirigir también el brazo robótico.
 
 ## Bibliografía
 Proyecto sacado de [Instructables](https://www.instructables.com/Automated-Robotic-Arm-That-Learns-Ft-Tinkercad-Ard/)
